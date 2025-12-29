@@ -30,17 +30,20 @@ section {
     display: flex;
     align-items: center;
         text-transform: uppercase;
+        /* padding: 5rem; */
     img {
       height: 90%;
       padding: 1rem;
     }
     .right {
+      padding: 5rem;
       button {
         width: 7vw;
         background-color: blue;
         color: white;
         border-radius: 2rem;
         border: 0;
+        
       }
     }
   }
